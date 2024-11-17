@@ -12,7 +12,7 @@ Here is the link of all the [topics](https://www.ec-nantes.fr/study/undergraduat
 ## 🧑‍💻 Professional side
 Alongside my studies, I offer occasional Marketing & Business Intelligence services for VINCI Construction and some SMEs. And working actually on AI chatbot agency for schools called ConversIA. A few years ago, I pivoted from a pure business track to something more tech-focused, and it’s been an exciting shift!
 
-If my data analytics background interest you, go check my [porfotlio](ttps://linktr.ee/felixcharotte)!.
+If my data analytics background interest you, go check my [porfotlio](https://linktr.ee/felixcharotte)!.
 
 Right now, I’m actively looking for internships and opportunities in data science and machine learning so do not hesitate to ask anything!
 
