@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About ME
-Here is what is worth knowing about me.
+Here is what is worth knowing about me, in 2 minutes top chrono! ⏱️
 
 ## 🔭 I'm a 2nd year student
 ... at _Audencia Business School_ and _Centrale Nantes_ following the **Bachelor of Business Admistration** (BBA) specialized in _Big Data_ & _Management_. A lot of topics are covered in this degree but the one I'm slowly falling in love with is **Machine Learning**.
