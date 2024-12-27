@@ -6,7 +6,7 @@ Here is what is worth knowing about me, in 2 minutes top chrono! ⏱️
 ## 🔭 I'm a 2nd year student
 ... at _Audencia Business School_ and _Centrale Nantes_ following the **Bachelor of Business Admistration** (BBA) specialized in _Big Data_ & _Management_. A lot of topics are covered in this degree but the one I'm slowly falling in love with is **Machine Learning**.
 
-### 🌱 I’m currently learning a lot
+## 🌱 I’m currently learning a lot
 Here is the link of all the [topics](https://www.ec-nantes.fr/study/undergraduate/bba-data-ai-management-1?l=1) covered by this degree for intrested ones. I am also working on some cool data science projects like Sentiment Analysis for trading strategies, Churn Prediction, Data Cleansing with 45+ variables, and House Price Prediction using Scikit-learn, deployed via Flask on AWS. Here you can find my [Portfolio Website](https://charottefelix.wixsite.com/maker) with more Data Viz and marketing projects and let you discover the data science and ML side here on GitHub!
 
 ## 🧑‍💻 Professional side
