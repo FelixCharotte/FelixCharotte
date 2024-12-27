@@ -24,7 +24,8 @@ Always dare and try we are like in a game building our story.
 Please reach me here on GitHub first,  
 Here is also my [LinkedIn](https://www.linkedin.com/in/felix-charotte/) (There many things to discover there!👀),  
 Or email me at felix.charotte@outlook.fr.
-And finally this is my [Linktree](https://linktr.ee/felixcharotte) with all my social media
+
+And finally this is my [Linktree](https://linktr.ee/felixcharotte) with all my social media!
 <!-- -->
 
 
